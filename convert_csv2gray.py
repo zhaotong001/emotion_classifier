@@ -6,7 +6,7 @@ import numpy as np
 
 datasets_path = r'.\fer2013'
 train_csv = os.path.join(datasets_path, 'train.csv')
-val_csv = os.path.join(datasets_path, 'val.csv')
+val_csv = s.path.join(datasets_path, 'val.csv')
 test_csv = os.path.join(datasets_path, 'test.csv')
 
 train_set = os.path.join(datasets_path, 'train')
